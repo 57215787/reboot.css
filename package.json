@@ -1,0 +1,17 @@
+{
+  "name": "reset.css",
+  "version": "1.0.0",
+  "description": "A modern alternative to CSS resets",
+  "main": "reset.css",
+  "style": "reset.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/57215787/reset.scss.git"
+  },
+  "author": "jason.guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/57215787/reset.scss/issues"
+  },
+  "homepage": "https://github.com/57215787/reset.scss#readme"
+}
