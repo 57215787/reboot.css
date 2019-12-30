@@ -30,7 +30,6 @@ html * {
 body {
     text-align: left;
     font-weight: normal;
-    background-color: #fff;
     font-family:
         -apple-system,
         BlinkMacSystemFont,
@@ -62,8 +61,6 @@ em {
 }
 
 img {
-    border-style: none;
-    display: block;
     border-width: 0;
 }
 

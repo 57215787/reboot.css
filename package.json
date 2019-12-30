@@ -1,13 +1,16 @@
 {
-  "name": "reset.css",
-  "version": "1.0.0",
+  "name": "swift-reset.css",
+  "version": "1.1.0",
   "description": "A modern alternative to CSS resets",
-  "main": "reset.css",
+  "main": "./lib/reset.css",
   "style": "reset.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/57215787/reset.scss.git"
   },
+   "scripts": {
+     "release": "npm pub"
+   },
   "author": "jason.guo",
   "license": "ISC",
   "bugs": {
