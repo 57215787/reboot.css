@@ -64,7 +64,7 @@ img {
     border-width: 0;
 }
 
-ol,
+
 ul {
     list-style: none
 }
@@ -79,17 +79,3 @@ h6 {
     font-weight: 500
 }
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-nav,
-section,
-summary {
-    display: block;
-}
